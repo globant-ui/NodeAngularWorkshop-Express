@@ -11,8 +11,8 @@ Recomendamos que instales previamente todas las dependencias necesarias siguiend
 
 ## Configuracion del proyecto:
 
-1) "Forkear" este repositorio con tu user de github
-2) instalar dependecias con `npm i`
+1) "Forkear" este repositorio con tu user de github  
+2) instalar dependecias con `npm i`  
 3) levantar servidor con `npm start`
 
 Abri tu browser y navega: `http://localhost:1338/albums`, deberias ver:
