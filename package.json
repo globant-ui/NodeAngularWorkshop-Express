@@ -1,0 +1,39 @@
+{
+  "name": "globant-workshop-2016",
+  "version": "1.0.0",
+  "description": "Simple backend API in Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/globant-ui/GlobantWorkshop2016.git"
+  },
+  "keywords": [
+    "API",
+    "express.js"
+  ],
+  "author": {
+    "name": "Geronimo Garcia Sgritta",
+    "email": "geronimo.garcia@globant.com",
+    "url": "https://twitter.com/geronimogarcia"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/globant-ui/GlobantWorkshop2016/issues"
+  },
+  "homepage": "https://github.com/globant-ui/GlobantWorkshop2016#readme",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "body-parser": "^1.15.1",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "nedb": "^1.8.0",
+    "nodemon": "^1.9.2"
+  },
+  "engineStrict" : true,
+  "engines" : { 
+    "node" : ">=4.2.1" 
+  }
+}
