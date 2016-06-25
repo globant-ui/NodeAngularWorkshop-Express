@@ -1,0 +1,31 @@
+[{
+  "url" : "https://i.scdn.co/image/2782d94528b449fb6910300cc8c8f93ab8cc7a8d",
+  "name" : "The Beatles (Remastered)",
+  "docType" : "ALBUM",
+  "releaseDate": "1963-03-22T00:00:00-0300"
+},{
+  "url" : "https://i.scdn.co/image/9ecfdf528562cae879748b73bd81b64dfa3d5704",
+  "name" : "1 (Remastered)",
+  "docType" : "ALBUM",
+  "releaseDate": "1963-03-22T00:00:00-0300"
+},{
+  "url" : "https://i.scdn.co/image/c429243cd056974175abe72a3142d3dccffc166a",
+  "name" : "Abbey Road (Remastered)",
+  "docType" : "ALBUM",
+  "releaseDate": "1963-03-22T00:00:00-0300"
+},{
+  "url" : "https://i.scdn.co/image/e26910fd9e7bb1671213cb9ed06a855077ddd79f",
+  "name" : "Rubber Soul (Remastered)",
+  "docType" : "ALBUM",
+  "releaseDate": "1963-03-22T00:00:00-0300"
+},{
+  "url" : "https://i.scdn.co/image/b3651a85f2bca826b38194c51d09cd7b068aa3ab",
+  "releaseDate": "1963-03-22T00:00:00-0300",
+  "name" : "Let It Be (Remastered)",
+  "docType" : "ALBUM"
+},{
+  "url" : "https://i.scdn.co/image/ec881187fe0432c8f6d208b9b4833bd411471345",
+  "releaseDate": "1967-03-22T00:00:00-0300",
+  "name" : "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+  "docType" : "ALBUM"
+}]

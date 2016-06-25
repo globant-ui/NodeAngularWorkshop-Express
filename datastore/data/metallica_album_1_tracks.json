@@ -1,0 +1,25 @@
+[{
+"disc_number" : 1,
+"duration_ms" : 516293,
+"name" : "Master Of Puppets",
+"track_number" : 2,
+"docType" : "TRACK"
+}, {
+"disc_number" : 1,
+"duration_ms" : 312706,
+"name" : "Battery",
+"track_number" : 1,
+"docType" : "TRACK"
+}, {
+"disc_number" : 1,
+"duration_ms" : 387840,
+"name" : "Welcome Home (Sanitarium)",
+"track_number" : 4,
+"docType" : "TRACK"
+}, {
+"disc_number" : 1,
+"duration_ms" : 508000,
+"name" : "Orion (Instrumental)",
+"track_number" : 7,
+"docType" : "TRACK"
+}]

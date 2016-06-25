@@ -1,0 +1,25 @@
+[{
+"disc_number" : 1,
+"duration_ms" : 304893,
+"name" : "Whiskey In The Jar",
+"track_number" : 9,
+"docType" : "TRACK"
+}, {
+"disc_number" : 1,
+"duration_ms" : 366400,
+"name" : "Turn The Page",
+"track_number" : 4,
+"docType" : "TRACK"
+}, {
+"disc_number" : 1,
+"duration_ms" : 545733,
+"name" : "Tuesday's Gone",
+"track_number" : 10,
+"docType" : "TRACK"
+}, {
+"disc_number" : 1,
+"duration_ms" : 149333,
+"name" : "Die Die My Darling",
+"track_number" : 5,
+"docType" : "TRACK"
+}]

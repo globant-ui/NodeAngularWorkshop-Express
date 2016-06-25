@@ -1,0 +1,298 @@
+{
+  "url" : "https://i.scdn.co/image/934c57df9fbdbbaa5e93b55994a4cb9571fd2085",
+  "foundationDate": "2016-05-17T14:44:54-0300",
+  "endDate": "2016-05-17T14:44:54-0300",
+  "name" : "The Beatles",
+  "active": "false",
+  "id" : "3WrFJ7ztbogyGnTHbHJFl2",      
+  "docType" : "band",
+  "artist" : [{
+    "id": "4STHEaNw4mPZ2tzheohgXB",
+    "url": "https://i.scdn.co/image/96e2e59a1bf0b90cce97035ca48ad017cb9937c9",
+    "firstName": "Paul",
+    "lastName": "McCartney",
+    "birthdate": "1942-06-18T00:00:00-0300",
+    "instrument": "guitar",
+    "docType": "artist"
+  },{
+    "id": "4x1nvY2FN8jxqAFA0DA02H",
+    "url": "https://i.scdn.co/image/47e00040660be1a06ce84821fcbe3fb68c658e1a",
+    "firstName": "John",
+    "lastName": "Lennon",
+    "birthdate": "1942-06-18T00:00:00-0300",
+    "instrument": "guitar",
+    "docType": "artist"
+  },{
+    "id": "6DbJi8AcN5ANdtvJcwBSw8",
+    "url": "https://i.scdn.co/image/33028dadc690dd2ceb3a01762a13e594f8e9d937",
+    "firstName": "Ringo",
+    "lastName": "Starr",
+    "birthdate": "1942-06-18T00:00:00-0300",
+    "instrument": "guitar",
+    "docType": "artist"
+  },{
+    "id": "7FIoB5PHdrMZVC3q2HE5MS",
+    "url": "https://i.scdn.co/image/4d9990ce9e262cd5c0bfb1aef5ee4380d3f3dc66",
+    "firstName": "George",
+    "lastName": "Harrison",
+    "birthdate": "1942-06-18T00:00:00-0300",
+    "instrument": "guitar",
+    "docType": "artist"
+  }],
+  "album" : [ {
+      "url" : "https://i.scdn.co/image/2782d94528b449fb6910300cc8c8f93ab8cc7a8d",
+      "id" : "1klALx0u4AavZNEvC4LrTL",
+      "name" : "The Beatles (Remastered)",
+      "tracks": [ {        
+        "disc_number" : 1,        
+        "id" : "6dGnYIeXmHdcikdzNNDMm2",
+        "name" : "Here Comes The Sun - Remastered",        
+        "track_number" : 7,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 138386,        
+        "id" : "5jgFfDIR6FR0gvlA56Nakr",
+        "name" : "Blackbird - Remastered",        
+        "track_number" : 11,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 425653,        
+        "id" : "0aym2LBJBk9DAYuHHutrIl",
+        "name" : "Hey Jude - Remastered 2015",        
+        "track_number" : 21,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 259946,        
+        "id" : "2EqlS6tkEnglzr7tkKAAYD",
+        "name" : "Come Together - Remastered",        
+        "track_number" : 1,
+        "docType" : "track"
+      }],
+      "docType" : "album",
+      "releaseDate": "1963-03-22T00:00:00-0300"
+    }, {    
+      "id" : "7vEJAtP3KgKSpOHVgwm3Eh",
+      "url" : "https://i.scdn.co/image/9ecfdf528562cae879748b73bd81b64dfa3d5704",      
+      "name" : "1 (Remastered)",
+      "tracks": [{        
+        "disc_number" : 1,
+        "duration_ms" : 425653,        
+        "id" : "0aym2LBJBk9DAYuHHutrIl",
+        "name" : "Hey Jude - Remastered 2015",        
+        "track_number" : 21,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 145746,        
+        "id" : "4pbG9SUmWIvsROVLF0zF9s",
+        "name" : "I Want To Hold Your Hand - Remastered 2015",        
+        "track_number" : 4,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 214653,        
+        "id" : "57JVGBtBLCfHw2muk5416J",
+        "name" : "Another One Bites The Dust",        
+        "track_number" : 3,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 291685,
+        "id" : "608xszaAxVh4m7NcKJiAbF",
+        "name" : "One Of These Nights",        
+        "track_number" : 1,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 169000,        
+        "id" : "29b2b96jozyD9GPCkOrVLs",
+        "name" : "Day Tripper - Remastered 2015",        
+        "track_number" : 12,
+        "docType" : "track"
+      }],
+      "docType" : "album",
+      "releaseDate": "1963-03-22T00:00:00-0300"
+    }, {
+      "id" : "0ETFjACtuP2ADo6LFhL6HN",
+      "url" : "https://i.scdn.co/image/c429243cd056974175abe72a3142d3dccffc166a",      
+      "name" : "Abbey Road (Remastered)",
+      "tracks": [{        
+        "disc_number" : 1,
+        "duration_ms" : 185733,        
+        "id" : "6dGnYIeXmHdcikdzNNDMm2",
+        "name" : "Here Comes The Sun - Remastered",        
+        "track_number" : 7,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 259946,        
+        "id" : "2EqlS6tkEnglzr7tkKAAYD",
+        "name" : "Come Together - Remastered",        
+        "track_number" : 1,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 182293,        
+        "id" : "0pNeVovbiZHkulpGeOx1Gj",
+        "name" : "Something - Remastered",
+        "track_number" : 2,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 207240,        
+        "id" : "2mxByJWOajjiVsLWjNXvDJ",
+        "name" : "Oh! Darling - Remastered",        
+        "track_number" : 4,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 91760,        
+        "id" : "01SfTM5nfCou5gQL70r6gs",
+        "name" : "Golden Slumbers - Remastered",        
+        "track_number" : 14,
+        "docType" : "track"
+      }],
+      "docType" : "album",
+      "releaseDate": "1963-03-22T00:00:00-0300"
+    }, {
+      "url" : "https://i.scdn.co/image/e26910fd9e7bb1671213cb9ed06a855077ddd79f",
+      "id" : "50o7kf2wLwVmOTVYJOTplm",      
+      "name" : "Rubber Soul (Remastered)",
+      "tracks": [{        
+        "disc_number" : 1,
+        "duration_ms" : 146333,        
+        "id" : "3KfbEIOC7YIv90FIfNSZpo",
+        "name" : "In My Life - Remastered",        
+        "track_number" : 11,
+        "docType" : "track"
+      }, {        
+        "id" : "1H7gMYGykdtwZOV6s1N0by",
+        "name" : "Norwegian Wood (This Bird Has Flown) - Remastered",        
+        "track_number" : 2,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 162373,        
+        "id" : "5By7Pzgl6TMuVJG168VWzS",
+        "name" : "Michelle - Remastered",        
+        "track_number" : 7,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 163693,        
+        "id" : "5SUlhldQJtOhUr2GzH5RI7",
+        "name" : "Nowhere Man - Remastered",        
+        "track_number" : 4,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 148893,        
+        "id" : "06ypiqmILMdVeaiErMFA91",
+        "name" : "Drive My Car - Remastered",        
+        "track_number" : 1,
+        "docType" : "track"
+      }],
+      "docType" : "album",
+      "releaseDate": "1963-03-22T00:00:00-0300"
+    }, {
+      "url" : "https://i.scdn.co/image/b3651a85f2bca826b38194c51d09cd7b068aa3ab",
+      "id" : "0jTGHV5xqHPvEcwL8f6YU5",
+      "releaseDate": "1963-03-22T00:00:00-0300",
+      "tracks": [{        
+        "disc_number" : 1,
+        "duration_ms" : 243026,        
+        "id" : "7iN1s7xHE4ifF5povM6A48",
+        "name" : "Let It Be - Remastered",        
+        "track_number" : 6,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 228133,        
+        "id" : "4dkoqJrP0L8FXftrMZongF",
+        "name" : "Across The Universe - Remastered",        
+        "track_number" : 3,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 230440,        
+        "id" : "4qsVPnhbvEooD1bSNqvvh0",
+        "name" : "Let It Be - Remastered 2015",        
+        "track_number" : 26,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 189386,        
+        "id" : "4MLBqAEzNN89o2M9h92Z26",
+        "name" : "Get Back - Remastered",        
+        "track_number" : 12,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 216813,        
+        "id" : "0CaBBQsaAiRHhiLmzi7ZRp",
+        "name" : "Two Of Us - Remastered",        
+        "track_number" : 1,
+        "docType" : "track"        
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 145586,        
+        "id" : "2BMqay80iBzZTa608Y1eG1",
+        "name" : "I Me Mine - Remastered",        
+        "track_number" : 4,
+        "docType" : "track"
+      }],
+      "name" : "Let It Be (Remastered)",
+      "docType" : "album"      
+    }, {
+      "url" : "https://i.scdn.co/image/ec881187fe0432c8f6d208b9b4833bd411471345",
+      "id" : "6QaVfG1pHYl1z15ZxkvVDW",
+      "tracks": [{        
+        "disc_number" : 1,
+        "duration_ms" : 208466,
+        "id" : "25yQPHgC35WNnnOUqFhgVR",
+        "name" : "Lucy In The Sky With Diamonds - Remastered",
+        "track_number" : 3,
+        "docType" : "track"
+      }, {
+        "disc_number" : 1,
+        "duration_ms" : 337413,        
+        "id" : "0hKRSZhUGEhKU6aNSPBACZ",
+        "name" : "A Day In The Life - Remastered",        
+        "track_number" : 13,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 164106,        
+        "id" : "2RnPATK99oGOZygnD2GTO6",
+        "name" : "With A Little Help From My Friends - Remastered",        
+        "track_number" : 2,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 122893,        
+        "id" : "4fUKE8EULjQdHF4zb0M8FO",
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band - Remastered",        
+        "track_number" : 1,
+        "docType" : "track"        
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 168120,
+        "id" : "3LtOmWpTXLhilL5odoKysR",
+        "name" : "Getting Better - Remastered",        
+        "track_number" : 4,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 162093,        
+        "id" : "6h9W5FxX4E9lUFsyq8j1AD",
+        "name" : "Lovely Rita - Remastered",        
+        "track_number" : 10,
+        "docType" : "track"
+      }],     
+      "name" : "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+      "docType" : "album"
+    }]
+} 

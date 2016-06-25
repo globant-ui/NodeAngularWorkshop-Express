@@ -1,0 +1,37 @@
+[{
+"disc_number" : 1,
+"duration_ms" : 121373,
+"name" : "The Ecstasy of Gold",
+"track_number" : 1,
+"docType" : "TRACK"
+}, {
+"disc_number" : 1,
+"duration_ms" : 279506,
+"name" : "For Whom The Bell Tolls (Live)",
+"track_number" : 3,
+"docType" : "TRACK"
+}, {
+"disc_number" : 1,
+"duration_ms" : 414306,
+"name" : "Ride the Lightning (Live)",
+"track_number" : 5,
+"docType" : "TRACK"
+}, {
+"disc_number" : 1,
+"duration_ms" : 379013,
+"name" : "Creeping Death (Live)",
+"track_number" : 2,
+"docType" : "TRACK"
+}, {
+"name" : "The Memory Remains (Live)",
+"track_number" : 7,
+"disc_number" : 1,
+"duration_ms" : 237426,
+"type" : "TRACK"
+}, {
+"disc_number" : 1,
+"duration_ms" : 237426,
+"name" : "Fuel (Live)",
+"track_number" : 4,
+"docType" : "TRACK"
+}]

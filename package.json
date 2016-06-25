@@ -4,7 +4,9 @@
   "description": "Simple backend API in Express",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "dropDB": "node datastore/dropDatabase.js",
+    "seedDB": "node datastore/seedDatabase.js"
   },
   "repository": {
     "type": "git",
@@ -31,9 +33,5 @@
     "express": "^4.13.4",
     "nedb": "^1.8.0",
     "nodemon": "^1.9.2"
-  },
-  "engineStrict" : true,
-  "engines" : { 
-    "node" : ">=4.2.1" 
   }
 }

@@ -1,0 +1,32 @@
+
+[{
+"disc_number" : 1,
+"duration_ms" : 185733,
+"name" : "Here Comes The Sun - Remastered",
+"track_number" : 7,
+"docType" : "TRACK"
+}, {
+"disc_number" : 1,
+"duration_ms" : 259946,
+"name" : "Come Together - Remastered",
+"track_number" : 1,
+"docType" : "TRACK"
+}, {
+"disc_number" : 1,
+"duration_ms" : 182293,
+"name" : "Something - Remastered",
+"track_number" : 2,
+"docType" : "TRACK"
+}, {
+"disc_number" : 1,
+"duration_ms" : 207240,
+"name" : "Oh! Darling - Remastered",
+"track_number" : 4,
+"docType" : "TRACK"
+}, {
+"disc_number" : 1,
+"duration_ms" : 91760,
+"name" : "Golden Slumbers - Remastered",
+"track_number" : 14,
+"docType" : "TRACK"
+}]

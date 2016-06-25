@@ -1,0 +1,31 @@
+[{
+"disc_number" : 1,
+"duration_ms" : 447440,
+"name" : "One",
+"track_number" : 4,
+"docType" : "TRACK"
+}, {
+"disc_number" : 1,
+"duration_ms" : 586506,
+"name" : "...And Justice For All",
+"track_number" : 2,
+"docType" : "TRACK"
+}, {
+"disc_number" : 1,
+"duration_ms" : 401093,
+"name" : "Blackened",
+"track_number" : 1,
+"docType" : "TRACK"
+}, {
+"disc_number" : 1,
+"duration_ms" : 343893,
+"name" : "Harvester Of Sorrow",
+"track_number" : 6,
+"docType" : "TRACK"
+}, {
+"disc_number" : 1,
+"duration_ms" : 395960,
+"name" : "The Shortest Straw",
+"track_number" : 5,
+"docType" : "TRACK"
+}]

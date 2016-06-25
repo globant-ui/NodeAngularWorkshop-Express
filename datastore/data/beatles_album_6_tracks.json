@@ -1,0 +1,37 @@
+[{
+"disc_number" : 1,
+"duration_ms" : 208466,
+"name" : "Lucy In The Sky With Diamonds - Remastered",
+"track_number" : 3,
+"docType" : "TRACK"
+}, {
+"disc_number" : 1,
+"duration_ms" : 337413,
+"name" : "A Day In The Life - Remastered",
+"track_number" : 13,
+"docType" : "TRACK"
+}, {
+"disc_number" : 1,
+"duration_ms" : 164106,
+"name" : "With A Little Help From My Friends - Remastered",
+"track_number" : 2,
+"docType" : "TRACK"
+}, {
+"disc_number" : 1,
+"duration_ms" : 122893,
+"name" : "Sgt. Pepper's Lonely Hearts Club Band - Remastered",
+"track_number" : 1,
+"docType" : "TRACK"
+}, {
+"disc_number" : 1,
+"duration_ms" : 168120,
+"name" : "Getting Better - Remastered",
+"track_number" : 4,
+"docType" : "TRACK"
+}, {
+"disc_number" : 1,
+"duration_ms" : 162093,
+"name" : "Lovely Rita - Remastered",
+"track_number" : 10,
+"docType" : "TRACK"
+}]

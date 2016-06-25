@@ -1,0 +1,24 @@
+[{
+"disc_number" : 1,
+"name" : "Here Comes The Sun - Remastered",
+"track_number" : 7,
+"docType" : "TRACK"
+}, {
+"disc_number" : 1,
+"duration_ms" : 138386,
+"name" : "Blackbird - Remastered",
+"track_number" : 11,
+"docType" : "TRACK"
+}, {
+"disc_number" : 1,
+"duration_ms" : 425653,
+"name" : "Hey Jude - Remastered 2015",
+"track_number" : 21,
+"docType" : "TRACK"
+}, {
+"disc_number" : 1,
+"duration_ms" : 259946,
+"name" : "Come Together - Remastered",
+"track_number" : 1,
+"docType" : "TRACK"
+}]

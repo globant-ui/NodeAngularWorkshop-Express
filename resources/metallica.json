@@ -1,0 +1,229 @@
+{  
+  "id" : "2ye2Wgw4gimLv2eAKyk1NB",
+  "url" : "https://i.scdn.co/image/3e77faaefed7e976999d5d40b02c2d0cae173a5a",  
+  "name" : "Metallica",  
+  "docType" : "band",
+  "foundationDate": "2016-05-17T14:44:54-0300",
+  "endDate": "2016-05-17T14:44:54-0300",
+  "artists": [{
+      "url" : "https://i.scdn.co/image/7363350720f890939156192d4dee6bb5877c0cc4",
+      "id" : "5iWKApUn9IP5vcOv2RKTvs",
+      "birthdate": "1942-06-18T00:00:00-0300",
+      "instrument": "guitar",
+      "firstName": "Lars",
+      "lastName": "Ulrich",      
+      "docType" : "artist"
+    },{
+      "url" : "https://i.scdn.co/image/c7c8c0ce06bf761aefdb43d36d1c2f86de51a728",
+      "id" : "1pp3jqKNKXFawj4MaWuwnr",
+      "birthdate": "1942-06-18T00:00:00-0300",            
+      "instrument": "guitar",
+      "firstName": "James",
+      "lastName": "Hetfield",      
+      "docType" : "artist"
+    }, {
+      "url" : "https://i.scdn.co/image/04151ab94c67250094da72217758aec6e464c639",
+      "id" : "2ePzbA0F0TD96Na0MEB2Cf",
+      "firstName": "Kirk",
+      "lastName": "Hammett",      
+      "docType" : "artist",
+      "birthdate": "1942-06-18T00:00:00-0300",            
+      "instrument": "guitar"
+    }, {
+      "url" : "https://i.scdn.co/image/a171cadf89145d2e5b1941eb6ec8570700b9b0ea",
+      "id" : "3rROvEsUJJ9y55g1PLaA16",
+      "firstName": "Robert",
+      "lastName": "Trujillo",      
+      "docType" : "artist",
+      "birthdate": "1942-06-18T00:00:00-0300",            
+      "instrument": "guitar"
+    }],      
+  "album": [{
+      "url" : "https://i.scdn.co/image/74a3da0609d62ee0112ff51e764d1b57736b0d57",
+      "id" : "41bTjcSaiEe4G40RVVHbux",
+      "releaseDate": "1963-03-22T00:00:00-0300",
+      "name" : "Master Of Puppets",
+      "docType" : "album",
+      "tracks": [{      
+        "disc_number" : 1,
+        "duration_ms" : 516293,        
+        "id" : "6NwbeybX6TDtXlpXvnUOZC",
+        "name" : "Master Of Puppets",        
+        "track_number" : 2,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 312706,        
+        "id" : "4A1jq5W97gi5ok44CgZiab",
+        "name" : "Battery",        
+        "track_number" : 1,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 387840,        
+        "id" : "48Ih1FjoQ5KoCpsdKUk8Eu",
+        "name" : "Welcome Home (Sanitarium)",        
+        "track_number" : 4,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 508000,        
+        "id" : "5qp4uB6muUB0qdrb4zpuf4",
+        "name" : "Orion (Instrumental)",        
+        "track_number" : 7,
+        "docType" : "track"
+      }]
+    }, {
+      "url" : "https://i.scdn.co/image/0b4e70e1ecbbe0085e5c169c447b1648cccf9b21",
+      "id" : "69oeRoYEpSsNPGVuYRxfoB",
+      "releaseDate": "1963-03-22T00:00:00-0300",
+      "tracks": [ {        
+        "disc_number" : 1,
+        "duration_ms" : 447440,        
+        "id" : "64Ret7Tf2M8pDE4aqbW2tX",
+        "name" : "One",        
+        "track_number" : 4,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 586506,        
+        "id" : "2VIk1zgNk6aRiIQ9C1T4Yu",
+        "name" : "...And Justice For All",        
+        "track_number" : 2,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 401093,        
+        "id" : "0Zx5fEgwEjyljQsuZYPYj8",
+        "name" : "Blackened",        
+        "track_number" : 1,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 343893,        
+        "id" : "6tVjcfkg648NG5bXrstJij",
+        "name" : "Harvester Of Sorrow",        
+        "track_number" : 6,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 395960,        
+        "id" : "3ULvzZ5AGeGfhpcJVM7vT1",
+        "name" : "The Shortest Straw",        
+        "track_number" : 5,
+        "docType" : "track"
+      }],
+      "name" : "...And Justice For All",
+      "docType" : "album"
+    }, {
+      "url" : "https://i.scdn.co/image/b56eb8fcc026c03907cc58b412435348738c48df",
+      "id" : "2omIeSJEGQeKHPOpiXgfkr",
+      "releaseDate": "1963-03-22T00:00:00-0300",      
+      "name" : "Ride The Lightning (Deluxe Remaster)",
+      "docType" : "album",
+      "tracks": [{        
+        "disc_number" : 1,
+        "duration_ms" : 309973,        
+        "id" : "51YZAJhOwIC5Gg3jMbAmhZ",
+        "name" : "For Whom The Bell Tolls (Remastered)",        
+        "track_number" : 3,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 417226,        
+        "id" : "0dqGfCMAGyDgpUAgLNOjWd",
+        "name" : "Fade To Black (Remastered)",        
+        "track_number" : 4,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 396986,        
+        "id" : "36DLF96pjKydN0MZtsahQz",
+        "name" : "Ride The Lightning (Remastered)",        
+        "track_number" : 2,
+        "docType" : "track"
+      }],
+    }, {
+      "url" : "https://i.scdn.co/image/eee785cb06a3cf1d0024392fb9369f833670e385",
+      "id" : "4qDiQwJ7UEuJsGLWL078nQ",
+      "releaseDate": "1963-03-22T00:00:00-0300",      
+      "name" : "Garage, Inc.",
+      "docType" : "album",
+      "tracks": [{        
+        "disc_number" : 1,
+        "duration_ms" : 304893,        
+        "id" : "77gY3WsOnEsq9JOWgBmdLj",
+        "name" : "Whiskey In The Jar",        
+        "track_number" : 9,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 366400,        
+        "id" : "0qBvoubmrmKDsknLBbOtUg",
+        "name" : "Turn The Page",        
+        "track_number" : 4,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 545733,        
+        "id" : "2dogWSSYkP7dZyZ6KTt4bq",
+        "name" : "Tuesday's Gone",        
+        "track_number" : 10,
+        "docType" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 149333,        
+        "id" : "7fyNUr8QEkeM2LGVunVm5J",
+        "name" : "Die Die My Darling",        
+        "track_number" : 5,
+        "docType" : "track"
+      }],
+    }, {
+      "url" : "https://i.scdn.co/image/4cd50118eab5b6e46f8d7f6993a24462af01834c",
+      "id" : "72grIwGP38Iy2S1jxt1Gjd",
+      "releaseDate": "1963-03-22T00:00:00-0300",       
+      "name" : "Metallica Through The Never (Music from the Motion Picture)",
+      "docType" : "album",
+      "tracks": [{        
+        "disc_number" : 1,
+        "duration_ms" : 121373,        
+        "id" : "2MzaSLi8iFWQQ7fBE3rvDe",
+        "name" : "The Ecstasy of Gold",        
+        "track_number" : 1,
+        "type" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 279506,        
+        "id" : "2VzAyholTBTXhkqxNO8YEh",
+        "name" : "For Whom The Bell Tolls (Live)",        
+        "track_number" : 3,
+        "type" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 414306,        
+        "id" : "1w3r4q8rgcc2WVHZPUuEnO",
+        "name" : "Ride the Lightning (Live)",        
+        "track_number" : 5,
+        "type" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 379013,        
+        "id" : "3H2wWBP6QXJpOmDKkihBiF",
+        "name" : "Creeping Death (Live)",        
+        "track_number" : 2,
+        "type" : "track"
+      }, {        
+        "id" : "5fQQDsc1SxPYADUTD2EV2N",
+        "name" : "The Memory Remains (Live)",        
+        "track_number" : 7,
+        "type" : "track"
+      }, {        
+        "disc_number" : 1,
+        "duration_ms" : 237426,        
+        "id" : "7E1lrtRqfZUOFHHlh8yYtE",
+        "name" : "Fuel (Live)",        
+        "track_number" : 4,
+        "type" : "track"
+      }],
+    }]
+  }
