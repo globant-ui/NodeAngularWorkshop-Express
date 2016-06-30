@@ -6,9 +6,15 @@ const Datastore = require('nedb');
 const express = require('express');
 const bodyParser = require('body-parser');
 
+const CommentsService = require('./core/services/comments');
 const api = require('./api');
 
-// TODO: Usar 'datastore/workshop.db' para levantar la base de datos.
+const db = new Datastore({
+  filename: 'datastore/workshop.db',
+  autoload: true
+});
+
+const commentsSrv = new CommentsService(db);
 
 const app = express();
 

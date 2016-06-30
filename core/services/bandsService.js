@@ -12,7 +12,7 @@ class BandsService {
     this.db = db;
     this.albumsService = AlbumsService;
   }
-
+  
   findAll() {
     return new Promise((resolve, reject) => {
       this.db.find({ docType: BAND }, (err, bands) => {
@@ -44,12 +44,55 @@ class BandsService {
       });
     });
   }
-
+  
   find(_id) {
     return new Promise((resolve, reject) => {
       this.db.findOne({docType: BAND, _id}, (err, band) => {
-        // TODO: Usar albumService.findByBand y buscar en la base de datos los artistas de la banda.
+        if (err) return reject(err);
 
+        if (!band) return resolve(null);
+
+        const complexQuery1 = {
+          $and: [
+            {docType: ARTIST},
+            {_id: {$in: band.artists}}
+          ]
+        };
+
+        this.db.find(complexQuery1, (err, artists) => {
+          if (err) return reject(err);
+
+          band.artists = artists;
+
+          let complexQuery2 = {
+            $and: [
+              {
+                docType: ALBUM
+              }, {
+                _id: {$in: band.albums}
+              }]
+          };
+
+          this.db.find(complexQuery2, (err, albums) => {
+            if (err) return reject(err);
+
+            const total = albums.length;
+            let current = 0;
+            if (0 === total) return resolve(null);
+
+            let albumPromises = [];
+            albums.forEach(album => {
+              albumPromises.push(this.albumsService.find(album._id));
+
+              if (total === ++current) {
+                Promise.all(albumPromises).then(results => {
+                  band.albums = results;
+                  resolve(band);
+                });
+              }
+            });
+          });
+        });
       });
     });
   }
